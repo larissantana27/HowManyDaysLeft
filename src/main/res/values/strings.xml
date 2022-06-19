@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Day6Concert</string>
+    <string name="dias_restante">Dias restantes até a melhor noite da sua vida :)</string>
+    <string name="dias">dias</string>
+    <string name="nao_confirmado"> X </string>
+    <string name="confirmado"> ✓ </string>
+
+</resources>
